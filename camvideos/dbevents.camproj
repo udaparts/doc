@@ -48,23 +48,23 @@
 <ClipName>C:\cyetest\doc\camvideos\dbevents_orig.camrec</ClipName>
 </ClipBin_Object>
 <ClipBin_Object>
-<ClipName>7.TSCTitle7</ClipName>
+<ClipName>C:\cyetest\doc\pictures\master-db-events.png</ClipName>
 </ClipBin_Object>
 </ClipBin_Array>
 
 <DShowControl_ClipMap>
 <DShowControl_ClipMap_Object>
-<FileName>8.tsctitle7</FileName>
+<FileName>c:\cyetest\doc\pictures\master-db-events.png</FileName>
 <PPTFile></PPTFile>
 <FromPPT>0</FromPPT>
 <Track>0</Track>
-<Flags>4</Flags>
+<Flags>2</Flags>
 <Start>0</Start>
-<End>50000000</End>
+<End>72000000</End>
 <ClipHasAudio>0</ClipHasAudio>
-<BitsPerPixel>32</BitsPerPixel>
-<Width>1280</Width>
-<Height>720</Height>
+<BitsPerPixel>24</BitsPerPixel>
+<Width>856</Width>
+<Height>573</Height>
 <FileLength>0</FileLength>
 <MarkIn>0</MarkIn>
 <MarkOut>0</MarkOut>
@@ -79,8 +79,42 @@
 <WFSamplesPerSec>-1</WFSamplesPerSec>
 <WFBitsPerSample>65535</WFBitsPerSample>
 <WFFormatTag>65535</WFFormatTag>
-<ClipMapIndex>4</ClipMapIndex>
-<ClipTitle>Title Clip 1</ClipTitle>
+<ClipMapIndex>5</ClipMapIndex>
+<ClipTitle>master-db-events.png</ClipTitle>
+<PowerPointSlide>0</PowerPointSlide>
+<SplitMinStart>0</SplitMinStart>
+<SplitMinEnd>0</SplitMinEnd>
+<Extra>0</Extra>
+<BuddyID>-1</BuddyID>
+</DShowControl_ClipMap_Object>
+<DShowControl_ClipMap_Object>
+<FileName>tscrec7://c:\cyetest\doc\camvideos\dbevents_orig.camrec!screen_stream.avi</FileName>
+<PPTFile></PPTFile>
+<FromPPT>0</FromPPT>
+<Track>0</Track>
+<Flags>8</Flags>
+<Start>72000000</Start>
+<End>858666667</End>
+<ClipHasAudio>0</ClipHasAudio>
+<BitsPerPixel>24</BitsPerPixel>
+<Width>1920</Width>
+<Height>1080</Height>
+<FileLength>849333333</FileLength>
+<MarkIn>0</MarkIn>
+<MarkOut>0</MarkOut>
+<MediaStart>0</MediaStart>
+<MediaEnd>849333333</MediaEnd>
+<FrameRate>15.000015</FrameRate>
+<ClipSpeed>1.000000</ClipSpeed>
+<WFSize>65535</WFSize>
+<WFAvgBytesPerSec>-1</WFAvgBytesPerSec>
+<WFBlockAlign>65535</WFBlockAlign>
+<WFChannels>65535</WFChannels>
+<WFSamplesPerSec>-1</WFSamplesPerSec>
+<WFBitsPerSample>65535</WFBitsPerSample>
+<WFFormatTag>65535</WFFormatTag>
+<ClipMapIndex>0</ClipMapIndex>
+<ClipTitle>dbevents_orig_Screen.avi</ClipTitle>
 <PowerPointSlide>0</PowerPointSlide>
 <SplitMinStart>0</SplitMinStart>
 <SplitMinEnd>0</SplitMinEnd>
@@ -115,40 +149,6 @@
 <WFFormatTag>1</WFFormatTag>
 <ClipMapIndex>1</ClipMapIndex>
 <ClipTitle>dbevents_orig_SystemAudio.wav</ClipTitle>
-<PowerPointSlide>0</PowerPointSlide>
-<SplitMinStart>0</SplitMinStart>
-<SplitMinEnd>0</SplitMinEnd>
-<Extra>0</Extra>
-<BuddyID>-1</BuddyID>
-</DShowControl_ClipMap_Object>
-<DShowControl_ClipMap_Object>
-<FileName>tscrec7://c:\cyetest\doc\camvideos\dbevents_orig.camrec!screen_stream.avi</FileName>
-<PPTFile></PPTFile>
-<FromPPT>0</FromPPT>
-<Track>0</Track>
-<Flags>8</Flags>
-<Start>50000000</Start>
-<End>836666667</End>
-<ClipHasAudio>0</ClipHasAudio>
-<BitsPerPixel>24</BitsPerPixel>
-<Width>1920</Width>
-<Height>1080</Height>
-<FileLength>849333333</FileLength>
-<MarkIn>0</MarkIn>
-<MarkOut>0</MarkOut>
-<MediaStart>0</MediaStart>
-<MediaEnd>849333333</MediaEnd>
-<FrameRate>15.000015</FrameRate>
-<ClipSpeed>1.000000</ClipSpeed>
-<WFSize>65535</WFSize>
-<WFAvgBytesPerSec>-1</WFAvgBytesPerSec>
-<WFBlockAlign>65535</WFBlockAlign>
-<WFChannels>65535</WFChannels>
-<WFSamplesPerSec>-1</WFSamplesPerSec>
-<WFBitsPerSample>65535</WFBitsPerSample>
-<WFFormatTag>65535</WFFormatTag>
-<ClipMapIndex>0</ClipMapIndex>
-<ClipTitle>dbevents_orig_Screen.avi</ClipTitle>
 <PowerPointSlide>0</PowerPointSlide>
 <SplitMinStart>0</SplitMinStart>
 <SplitMinEnd>0</SplitMinEnd>
@@ -405,7 +405,7 @@
 
 <Overlay_Array>
 <Overlay_Array_Object>
-<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>75</RectDest_X><RectDest_Y>385</RectDest_Y><RectDest_Width>236</RectDest_Width><RectDest_Height>101</RectDest_Height><Start>0</Start><End>72666667</End><FadeIn>0</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 1</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>61</OverlayID><TrackID>1</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>75</RectDest_X><RectDest_Y>385</RectDest_Y><RectDest_Width>236</RectDest_Width><RectDest_Height>101</RectDest_Height><Start>14666667</Start><End>72666667</End><FadeIn>0</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 1</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>61</OverlayID><TrackID>1</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
@@ -869,23 +869,21 @@
 </Overlay_Array>
 
 <Bookmark_Array>
-<Bookmark_Array_Object>
-<Start>0</Start>
-<UniqueID>0x000003E9</UniqueID>
-<Text>Title Clip 1</Text>
-<UseAsMarker>1</UseAsMarker>
-<IndentLevel>0</IndentLevel>
-<ClipID>4</ClipID>
-<Image_Object>
-<ImagePath></ImagePath>
-</Image_Object>
-</Bookmark_Array_Object>
 </Bookmark_Array>
 
 <QuestionGroup_Array>
 </QuestionGroup_Array>
 
 <DShowControl_Edit_Array>
+<DShowControl_Edit_Array_Object>
+<Type>0</Type>
+<EditArrayIndex>0</EditArrayIndex>
+<ClipTrack>0</ClipTrack>
+<ClipMapIndex>5</ClipMapIndex>
+<Start>72000000</Start>
+<End>74000000</End>
+<Flags>2</Flags>
+</DShowControl_Edit_Array_Object>
 <DShowControl_Edit_Array_Object>
 <Type>0</Type>
 <EditArrayIndex>0</EditArrayIndex>
@@ -926,61 +924,8 @@
 
 <Title_Array>
 <Title_Array_Object>
-<ID>8</ID>
-<TitleName>Subscribe-Publish Pattern for DB Events                 (Delete, Insert and Update)</TitleName>
-<BGImage>C:\cyetest\doc\pictures\subscibe-publish.png</BGImage>
-<BGColor>0x00E8DDB7</BGColor>
-<BGType>2</BGType>
-<AddTextDropShadow>1</AddTextDropShadow>
-<TextVJust>0</TextVJust>
-<RichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
-{\colortbl ;\red32\green88\blue103;\red63\green108\blue25;\red0\green0\blue255;}
-\viewkind4\uc1\pard\cf1\f0\fs56         \par
-         \cf2 Subscribe-Publish Pattern for DB Events\cf1\par
-                 \cf3 (Delete, Insert and Update)\fs52\par
-}
-</RichText>
-<TextRectDest_X>0.00</TextRectDest_X>
-<TextRectDest_Y>0.00</TextRectDest_Y>
-<TextRectDest_Width>1279.73</TextRectDest_Width>
-<TextRectDest_Height>710.00</TextRectDest_Height>
-<CreateMarker>1</CreateMarker>
-<AutoSizeClip>1</AutoSizeClip>
-<TitleClipHeight>1280</TitleClipHeight>
-<TitleClipWidth>720</TitleClipWidth>
-<Title_Image_Array>
-</Title_Image_Array>
-<StaticTitle>0</StaticTitle>
-</Title_Array_Object>
-<Title_Array_Object>
-<ID>7</ID>
-<TitleName>Subscribe-Publish Pattern for DB Events                 (Delete, Insert and Update)</TitleName>
-<BGImage>C:\cyetest\doc\pictures\subscibe-publish.png</BGImage>
-<BGColor>0x00E8DDB7</BGColor>
-<BGType>2</BGType>
-<AddTextDropShadow>1</AddTextDropShadow>
-<TextVJust>0</TextVJust>
-<RichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
-{\colortbl ;\red32\green88\blue103;\red63\green108\blue25;\red0\green0\blue255;}
-\viewkind4\uc1\pard\cf1\f0\fs56         \cf2 Subscribe-Publish Pattern for DB Events\cf1\par
-                 \cf3 (Delete, Insert and Update)\fs52\par
-}
-</RichText>
-<TextRectDest_X>10.00</TextRectDest_X>
-<TextRectDest_Y>0.00</TextRectDest_Y>
-<TextRectDest_Width>1260.00</TextRectDest_Width>
-<TextRectDest_Height>710.00</TextRectDest_Height>
-<CreateMarker>1</CreateMarker>
-<AutoSizeClip>1</AutoSizeClip>
-<TitleClipHeight>1280</TitleClipHeight>
-<TitleClipWidth>720</TitleClipWidth>
-<Title_Image_Array>
-</Title_Image_Array>
-<StaticTitle>0</StaticTitle>
-</Title_Array_Object>
-<Title_Array_Object>
-<ID>4</ID>
-<TitleName>Title Clip 2</TitleName>
+<ID>2</ID>
+<TitleName>Title Clip 1</TitleName>
 <BGImage></BGImage>
 <BGColor>0x00000000</BGColor>
 <BGType>2</BGType>
@@ -1000,8 +945,8 @@
 <StaticTitle>1</StaticTitle>
 </Title_Array_Object>
 <Title_Array_Object>
-<ID>2</ID>
-<TitleName>Title Clip 1</TitleName>
+<ID>4</ID>
+<TitleName>Title Clip 2</TitleName>
 <BGImage></BGImage>
 <BGColor>0x00000000</BGColor>
 <BGType>2</BGType>

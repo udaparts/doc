@@ -45,7 +45,7 @@
 <ZoomPanHints>0</ZoomPanHints>
 <ClipBin_Array>
 <ClipBin_Object>
-<ClipName>C:\cyetest\doc\pictures\master-salve-test-architecture.png</ClipName>
+<ClipName>C:\cyetest\doc\pictures\db_ss_demo.png</ClipName>
 </ClipBin_Object>
 <ClipBin_Object>
 <ClipName>C:\cyetest\doc\camvideos\masterslave.camrec</ClipName>
@@ -54,17 +54,17 @@
 
 <DShowControl_ClipMap>
 <DShowControl_ClipMap_Object>
-<FileName>c:\cyetest\doc\pictures\master-salve-test-architecture.png</FileName>
+<FileName>c:\cyetest\doc\pictures\db_ss_demo.png</FileName>
 <PPTFile></PPTFile>
 <FromPPT>0</FromPPT>
 <Track>0</Track>
 <Flags>2</Flags>
 <Start>0</Start>
-<End>201333333</End>
+<End>306666667</End>
 <ClipHasAudio>0</ClipHasAudio>
 <BitsPerPixel>24</BitsPerPixel>
-<Width>761</Width>
-<Height>571</Height>
+<Width>762</Width>
+<Height>566</Height>
 <FileLength>0</FileLength>
 <MarkIn>0</MarkIn>
 <MarkOut>0</MarkOut>
@@ -79,42 +79,8 @@
 <WFSamplesPerSec>-1</WFSamplesPerSec>
 <WFBitsPerSample>65535</WFBitsPerSample>
 <WFFormatTag>65535</WFFormatTag>
-<ClipMapIndex>2</ClipMapIndex>
-<ClipTitle>master-salve-test-architecture.png</ClipTitle>
-<PowerPointSlide>0</PowerPointSlide>
-<SplitMinStart>0</SplitMinStart>
-<SplitMinEnd>0</SplitMinEnd>
-<Extra>0</Extra>
-<BuddyID>-1</BuddyID>
-</DShowControl_ClipMap_Object>
-<DShowControl_ClipMap_Object>
-<FileName>tscrec7://c:\cyetest\doc\camvideos\masterslave.camrec!screen_stream.avi</FileName>
-<PPTFile></PPTFile>
-<FromPPT>0</FromPPT>
-<Track>0</Track>
-<Flags>8</Flags>
-<Start>201333333</Start>
-<End>3280666667</End>
-<ClipHasAudio>0</ClipHasAudio>
-<BitsPerPixel>24</BitsPerPixel>
-<Width>1920</Width>
-<Height>1080</Height>
-<FileLength>3079333333</FileLength>
-<MarkIn>0</MarkIn>
-<MarkOut>0</MarkOut>
-<MediaStart>0</MediaStart>
-<MediaEnd>3079333333</MediaEnd>
-<FrameRate>15.000015</FrameRate>
-<ClipSpeed>1.000000</ClipSpeed>
-<WFSize>65535</WFSize>
-<WFAvgBytesPerSec>-1</WFAvgBytesPerSec>
-<WFBlockAlign>65535</WFBlockAlign>
-<WFChannels>65535</WFChannels>
-<WFSamplesPerSec>-1</WFSamplesPerSec>
-<WFBitsPerSample>65535</WFBitsPerSample>
-<WFFormatTag>65535</WFFormatTag>
-<ClipMapIndex>0</ClipMapIndex>
-<ClipTitle>masterslave_Screen.avi</ClipTitle>
+<ClipMapIndex>3</ClipMapIndex>
+<ClipTitle>db_ss_demo.png</ClipTitle>
 <PowerPointSlide>0</PowerPointSlide>
 <SplitMinStart>0</SplitMinStart>
 <SplitMinEnd>0</SplitMinEnd>
@@ -155,6 +121,40 @@
 <Extra>0</Extra>
 <BuddyID>-1</BuddyID>
 </DShowControl_ClipMap_Object>
+<DShowControl_ClipMap_Object>
+<FileName>tscrec7://c:\cyetest\doc\camvideos\masterslave.camrec!screen_stream.avi</FileName>
+<PPTFile></PPTFile>
+<FromPPT>0</FromPPT>
+<Track>0</Track>
+<Flags>8</Flags>
+<Start>306666667</Start>
+<End>3386000000</End>
+<ClipHasAudio>0</ClipHasAudio>
+<BitsPerPixel>24</BitsPerPixel>
+<Width>1920</Width>
+<Height>1080</Height>
+<FileLength>3079333333</FileLength>
+<MarkIn>0</MarkIn>
+<MarkOut>0</MarkOut>
+<MediaStart>0</MediaStart>
+<MediaEnd>3079333333</MediaEnd>
+<FrameRate>15.000015</FrameRate>
+<ClipSpeed>1.000000</ClipSpeed>
+<WFSize>65535</WFSize>
+<WFAvgBytesPerSec>-1</WFAvgBytesPerSec>
+<WFBlockAlign>65535</WFBlockAlign>
+<WFChannels>65535</WFChannels>
+<WFSamplesPerSec>-1</WFSamplesPerSec>
+<WFBitsPerSample>65535</WFBitsPerSample>
+<WFFormatTag>65535</WFFormatTag>
+<ClipMapIndex>0</ClipMapIndex>
+<ClipTitle>masterslave_Screen.avi</ClipTitle>
+<PowerPointSlide>0</PowerPointSlide>
+<SplitMinStart>0</SplitMinStart>
+<SplitMinEnd>0</SplitMinEnd>
+<Extra>0</Extra>
+<BuddyID>-1</BuddyID>
+</DShowControl_ClipMap_Object>
 </DShowControl_ClipMap>
 
 <PIP_Array>
@@ -182,7 +182,7 @@
 <RectDest_Left>0</RectDest_Left>
 <RectDest_Right>1280</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>297333333</Start>
+<Start>297333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -224,7 +224,7 @@
 <RectDest_Left>473</RectDest_Left>
 <RectDest_Right>1920</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>1271333333</Start>
+<Start>1271333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -280,7 +280,7 @@
 <RectDest_Left>0</RectDest_Left>
 <RectDest_Right>1920</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>1963333333</Start>
+<Start>1963333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -294,7 +294,7 @@
 <RectDest_Left>0</RectDest_Left>
 <RectDest_Right>1280</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>2149333333</Start>
+<Start>2149333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -322,7 +322,7 @@
 <RectDest_Left>473</RectDest_Left>
 <RectDest_Right>1920</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>2491333333</Start>
+<Start>2491333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -507,7 +507,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -584,7 +584,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -661,7 +661,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -738,7 +738,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -815,7 +815,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -892,7 +892,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -969,7 +969,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
@@ -1046,7 +1046,7 @@
 <SmoothScale>1</SmoothScale>
 <PreserveSize>0</PreserveSize>
 <UseTColor>0</UseTColor>
-<clrTransparent >0xFF000000</clrTransparent >
+<clrTransparent >0x00000014</clrTransparent >
 <Opacity>1.00</Opacity>
 <Height>286</Height>
 <Width>337</Width>
