@@ -15,7 +15,7 @@
 <AudioTwo>1</AudioTwo>
 <Zoom>1</Zoom>
 <CursorKeyframe>0</CursorKeyframe>
-<Callout>0</Callout>
+<Callout>1</Callout>
 <PIP>0</PIP>
 <PIPAudio>0</PIPAudio>
 <Questions>0</Questions>
@@ -45,13 +45,50 @@
 <ZoomPanHints>0</ZoomPanHints>
 <ClipBin_Array>
 <ClipBin_Object>
+<ClipName>C:\cyetest\doc\pictures\db_ss_demo.png</ClipName>
+</ClipBin_Object>
+<ClipBin_Object>
 <ClipName>C:\cyetest\doc\camvideos\masterslave.camrec</ClipName>
 </ClipBin_Object>
 </ClipBin_Array>
 
 <DShowControl_ClipMap>
 <DShowControl_ClipMap_Object>
-<FileName>tscrec7://c:\cyetest\doc\camvideos\masterslave.camrec!SysAudio.wav</FileName>
+<FileName>c:\cyetest\doc\pictures\db_ss_demo.png</FileName>
+<PPTFile></PPTFile>
+<FromPPT>0</FromPPT>
+<Track>0</Track>
+<Flags>2</Flags>
+<Start>0</Start>
+<End>306666667</End>
+<ClipHasAudio>0</ClipHasAudio>
+<BitsPerPixel>24</BitsPerPixel>
+<Width>762</Width>
+<Height>566</Height>
+<FileLength>0</FileLength>
+<MarkIn>0</MarkIn>
+<MarkOut>0</MarkOut>
+<MediaStart>0</MediaStart>
+<MediaEnd>0</MediaEnd>
+<FrameRate>10.000000</FrameRate>
+<ClipSpeed>1.000000</ClipSpeed>
+<WFSize>65535</WFSize>
+<WFAvgBytesPerSec>-1</WFAvgBytesPerSec>
+<WFBlockAlign>65535</WFBlockAlign>
+<WFChannels>65535</WFChannels>
+<WFSamplesPerSec>-1</WFSamplesPerSec>
+<WFBitsPerSample>65535</WFBitsPerSample>
+<WFFormatTag>65535</WFFormatTag>
+<ClipMapIndex>3</ClipMapIndex>
+<ClipTitle>db_ss_demo.png</ClipTitle>
+<PowerPointSlide>0</PowerPointSlide>
+<SplitMinStart>0</SplitMinStart>
+<SplitMinEnd>0</SplitMinEnd>
+<Extra>0</Extra>
+<BuddyID>-1</BuddyID>
+</DShowControl_ClipMap_Object>
+<DShowControl_ClipMap_Object>
+<FileName>tscrec7://c:\cyetest\doc\camvideos\masterslave.camrec!sysaudio.wav</FileName>
 <PPTFile></PPTFile>
 <FromPPT>0</FromPPT>
 <Track>2</Track>
@@ -85,13 +122,13 @@
 <BuddyID>-1</BuddyID>
 </DShowControl_ClipMap_Object>
 <DShowControl_ClipMap_Object>
-<FileName>tscrec7://c:\cyetest\doc\camvideos\masterslave.camrec!Screen_Stream.avi</FileName>
+<FileName>tscrec7://c:\cyetest\doc\camvideos\masterslave.camrec!screen_stream.avi</FileName>
 <PPTFile></PPTFile>
 <FromPPT>0</FromPPT>
 <Track>0</Track>
 <Flags>8</Flags>
-<Start>0</Start>
-<End>3079333333</End>
+<Start>306666667</Start>
+<End>3386000000</End>
 <ClipHasAudio>0</ClipHasAudio>
 <BitsPerPixel>24</BitsPerPixel>
 <Width>1920</Width>
@@ -145,7 +182,7 @@
 <RectDest_Left>0</RectDest_Left>
 <RectDest_Right>1280</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>297333333</Start>
+<Start>297333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -187,7 +224,7 @@
 <RectDest_Left>473</RectDest_Left>
 <RectDest_Right>1920</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>1271333333</Start>
+<Start>1271333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -243,7 +280,7 @@
 <RectDest_Left>0</RectDest_Left>
 <RectDest_Right>1920</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>1963333333</Start>
+<Start>1963333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -257,7 +294,7 @@
 <RectDest_Left>0</RectDest_Left>
 <RectDest_Right>1280</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>2149333333</Start>
+<Start>2149333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -285,7 +322,7 @@
 <RectDest_Left>473</RectDest_Left>
 <RectDest_Right>1920</RectDest_Right>
 <Duration>10000000</Duration>
-<Start>2491333333</Start>
+<Start>2491333334</Start>
 <KeepAspect>1</KeepAspect>
 <Name></Name>
 <ZoomDuration>1.00</ZoomDuration>
@@ -465,6 +502,622 @@
 </CursorKeyframe_Array>
 
 <Overlay_Array>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>674</RectDest_X><RectDest_Y>223</RectDest_Y><RectDest_Width>355</RectDest_Width><RectDest_Height>150</RectDest_Height><Start>152333333</Start><End>202333333</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 1</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>61</OverlayID><TrackID>1</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Shutdown SQLite server for testing fault tolerance\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>378</RectDest_X><RectDest_Y>209</RectDest_Y><RectDest_Width>360</RectDest_Width><RectDest_Height>147</RectDest_Height><Start>300333333</Start><End>361333333</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 2</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>78</OverlayID><TrackID>1</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Call indexes show results returned randomly\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>404</RectDest_X><RectDest_Y>556</RectDest_Y><RectDest_Width>378</RectDest_Width><RectDest_Height>146</RectDest_Height><Start>372333333</Start><End>450333333</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 3</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>101</OverlayID><TrackID>0</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Retrying ...... as cloud server shuts down\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>751</RectDest_X><RectDest_Y>278</RectDest_Y><RectDest_Width>378</RectDest_Width><RectDest_Height>146</RectDest_Height><Start>484333333</Start><End>778000000</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 4</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>124</OverlayID><TrackID>0</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Programmatically control all responses in order\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>347</RectDest_X><RectDest_Y>316</RectDest_Y><RectDest_Width>389</RectDest_Width><RectDest_Height>146</RectDest_Height><Start>866666667</Start><End>935666667</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 5</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>143</OverlayID><TrackID>0</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Disable reporting call indexes of return results\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>563</RectDest_X><RectDest_Y>63</RectDest_Y><RectDest_Width>247</RectDest_Width><RectDest_Height>150</RectDest_Height><Start>1374333333</Start><End>1398000000</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 6</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>164</OverlayID><TrackID>0</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Verify fault auto recovery\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>693</RectDest_X><RectDest_Y>282</RectDest_Y><RectDest_Width>241</RectDest_Width><RectDest_Height>138</RectDest_Height><Start>1287666667</Start><End>1337666667</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 7</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>181</OverlayID><TrackID>0</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Shut down cloud server again\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
+<Overlay_Array_Object>
+<KeepAspectRatio>0</KeepAspectRatio><RectDest_X>549</RectDest_X><RectDest_Y>194</RectDest_Y><RectDest_Width>471</RectDest_Width><RectDest_Height>139</RectDest_Height><Start>2925000000</Start><End>3012333333</End><FadeIn>10000000</FadeIn><FadeOut>10000000</FadeOut><FlipOnX>0</FlipOnX><FlipOnY>0</FlipOnY><OverlayName>Speech Bubble 8</OverlayName><ClipID>0</ClipID><OverlayFlags>1</OverlayFlags><OverlayID>212</OverlayID><TrackID>0</TrackID><ColorMask>d7d7d7</ColorMask><BorderState>1</BorderState><WhiteColorMask>e2b38d</WhiteColorMask><FillState>1</FillState><RotationAngle>0</RotationAngle><UseDropShadow>1</UseDropShadow><DisableFading>0</DisableFading>
+<SmoothScale>1</SmoothScale>
+<PreserveSize>0</PreserveSize>
+<UseTColor>0</UseTColor>
+<clrTransparent >0x00000014</clrTransparent >
+<Opacity>1.00</Opacity>
+<Height>286</Height>
+<Width>337</Width>
+<TextBottomIndent>100</TextBottomIndent>
+<TextLeftIndent>40</TextLeftIndent>
+<TextRightIndent>40</TextRightIndent>
+<TextTopIndent>70</TextTopIndent>
+<strOverlayRichText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\qc\fs36 Going to test fast sequence returning without cloud server\par
+}
+</strOverlayRichText>
+<RichTextHTML></RichTextHTML>
+<TextVJust>1</TextVJust>
+<FadeInEffect>0</FadeInEffect>
+<FadeOutEffect>0</FadeOutEffect>
+<TextTransparencyFromCallout>1</TextTransparencyFromCallout>
+<UseTextDropShadow>0</UseTextDropShadow>
+<clrTextShadow>0x00000000</clrTextShadow>
+<TextShadowBlur>1</TextShadowBlur>
+<TextShadowOpacity>75</TextShadowOpacity>
+<TextShadowSize_X>2</TextShadowSize_X>
+<TextShadowSize_Y>2</TextShadowSize_Y>
+<AutoSizeCallouts>0</AutoSizeCallouts>
+<Hotspot_Info>
+<JumpURL>http://www.techsmith.com</JumpURL>
+<GotoTime>0</GotoTime>
+<Action>0</Action>
+<OpenURLInNewWindow>0</OpenURLInNewWindow>
+<PauseAtEnd>1</PauseAtEnd>
+<BookmarkTime>0</BookmarkTime>
+<BookmarkUniqueID>0x00000000</BookmarkUniqueID>
+</Hotspot_Info>
+<Type>ClipImageAbove</Type>
+<Overlay_ClipImageAbove_Object>
+<ImagePath>C:\Program Files (x86)\TechSmith\Camtasia Studio 7\Media\Studio\Callouts\speech bubble 1.png</ImagePath>
+<XGrow>100</XGrow>
+<YGrow>100</YGrow>
+<VectorGrow>0</VectorGrow>
+<CanRotate_90>1</CanRotate_90>
+<CanRotate_180>1</CanRotate_180>
+<CanRotate_270>1</CanRotate_270>
+<CanFlip_X>1</CanFlip_X>
+<CanFlip_X90>1</CanFlip_X90>
+<CanFlip_X180>1</CanFlip_X180>
+<CanFlip_X270>1</CanFlip_X270>
+<FriendlyName>Speech Bubble</FriendlyName>
+<clrShadow>0x00000000</clrShadow>
+<ShadowBlur>2</ShadowBlur>
+<ShadowOpacity>75</ShadowOpacity>
+<ShadowSize_X>4</ShadowSize_X>
+<ShadowSize_Y>4</ShadowSize_Y>
+<VectorProps>
+<figure>
+<svg>M168.5,0C261.561,0,337,56.021,337,125.125c0,41.219-26.839,77.781-68.248,100.579
+	c-10.825,44.954-32.723,62.43-57.447,60.076c9.696-8.492,25.809-19.354,12.702-42.479c-17.381,4.502-36.06,6.947-55.507,6.947
+	C75.439,250.25,0,194.229,0,125.125C0,56.021,75.439,0,168.5,0z</svg>
+</figure>
+<borderWidth>11.00</borderWidth>
+<seamY>125.13</seamY>
+<cutoutPercentage>-1.00</cutoutPercentage>
+<cutoutScaling>1</cutoutScaling>
+<roundedRectRadius>-1.00</roundedRectRadius>
+<textBoundaries></textBoundaries>
+<shapeConstraints>
+</shapeConstraints>
+<reshapers>
+</reshapers>
+</VectorProps>
+<Style>3</Style>
+</Overlay_ClipImageAbove_Object>
+</Overlay_Array_Object>
 </Overlay_Array>
 
 <Bookmark_Array>
